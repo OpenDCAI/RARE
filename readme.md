@@ -1,4 +1,4 @@
-<h1 align="center">[KDD 26]RARE: Retrieval-Augmented Reasoning Modeling</h1>
+<h2 align="center"> <img src="image/logo.png" width="38" height="38" alt=""> [KDD 26]RARE: Retrieval-Augmented Reasoning Modeling</h2>
 
 <p align="center">
 <a href='https://arxiv.org/abs/2503.23513v2'><img src='https://img.shields.io/badge/arXiv-2503.23513-b31b1b.svg'></a>  
